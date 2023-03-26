@@ -54,6 +54,10 @@ A cli application for spotify built using Golang
     <td><code>next</code></td>
     <td><code>skips to next track in the queue</code></td>
   </tr>
+  <tr>
+    <td><code>search [keyword]</code></td>
+    <td><code>return list of tracks matching the keyword</code></td>
+  </tr>
 </table>
 
 PS: Spotify Premium is required for playback
