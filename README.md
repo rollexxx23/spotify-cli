@@ -9,3 +9,8 @@ A cli application for spotify built using Golang
 * Spotify
 * Viper
 * Browser
+
+
+# Low Level Design
+
+![screenshot](screenshot.png)
