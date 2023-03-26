@@ -11,6 +11,6 @@ A cli application for spotify built using Golang
 * Browser
 
 
-# Low Level Design
+# Screenshot
 
 ![screenshot](screenshot.png)
